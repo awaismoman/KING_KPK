@@ -48,11 +48,11 @@ def main():
     mx()
 def mx():
     AWAIS = raw_input("\n[!] Select a valid option : ")
-    if MOMAND TRICKS =="1":
+    if =="1":
         os.system("cd data && python2 data")
-    if MOMAND TRICKS =="2":
+    if  =="2":
         os.system("cd exts && python2 exts")
-    if MOMAND TRICKS =="0":
+    if  =="0":
         print("")
         print("\033[1;92mTool Logout Successfull").center(50)
         print("")
