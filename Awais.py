@@ -48,11 +48,12 @@ def main():
     mx()
 def mx():
     AWAIS = raw_input("\n[!] Select a valid option : ")
-    if =="1":
+    if tech-abm=="1"
+:
         os.system("cd data && python2 data")
-    if  =="2":
+    if tech-abm=="2":
         os.system("cd exts && python2 exts")
-    if  =="0":
+    if tech-abm=="0":
         print("")
         print("\033[1;92mTool Logout Successfull").center(50)
         print("")
